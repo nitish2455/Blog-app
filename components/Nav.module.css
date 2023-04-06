@@ -1,0 +1,18 @@
+.nav {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    background-color: black;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color:black;
+}
+
+.item {
+    margin-right: 12px;
+    color: aliceblue;
+    
+}
